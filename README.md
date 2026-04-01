@@ -1,6 +1,6 @@
 # João Lucas Duarte Evangelista
 
----
+
 
 ## Stack
 
@@ -10,7 +10,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
+
 
 ## Projeto em destaque
 
@@ -29,7 +29,7 @@ Atuei como único desenvolvedor, sendo responsável por:
 
 `Python` `FastAPI` `PostgreSQL` `scikit-learn` `Docker` `Energia Solar`
 
----
+
 
 ## Sobre mim
 
@@ -39,13 +39,11 @@ aplicações com modelos de machine learning.
 
 Inglês intermediário (B1+).
 
----
+
 
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-lucas-de)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joaolucasduarteevangelista@gmail.com)
 
----
 
-*Sempre aberto a conversar sobre tecnologia e novos desafios.*
